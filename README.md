@@ -1,2 +1,2 @@
-# Tribute-Page
-This is My Tribute page of Isac Newton
+# My Resume
+This is My Resume You can Check and hire me Thanks
